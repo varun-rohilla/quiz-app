@@ -14,3 +14,6 @@
 - **HTML5** - Structure and content
 - **CSS3** - Styling and animations
 - **JavaScript (Vanilla)** - Logic, timer, and interactivity
+
+## Demo: 
+You can view the live demo [here](https://brainbuzz-quiz-app.netlify.app/)
