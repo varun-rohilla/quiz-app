@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BrainBuzz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="homePage">
+        <h1>Welcome to iQuiz</h1>
+        <p>Think fast, answer smart! iQuiz is a thrilling trivia challenge where you'll face 5 exciting questions, each with a 20 second timer. Test your knowledge, beat the clock, and see how high you can score. Are you ready to prove yourself? Let's get started!</p>
+        <button id="startQuiz">Start</button>
+    </div>
+    <div id="quizPage">
+
+        <div class="app">
+            <div class="timer">
+                <h1>iQuiz</h1>
+                <div class="timeClass" id="time">Time left: 20 seconds</div>
+            </div>
+            <div class="quiz">
+                <h2 id="question">Question goes here</h2>
+                <div id="answer-buttons">
+                    <button class="btn">Answer 1</button>
+                    <button class="btn">Answer 2</button>
+                    <button class="btn">Answer 3</button>
+                    <button class="btn">Answer 4</button>
+                </div>
+                <button id="next-btn">Next</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
