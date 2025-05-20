@@ -34,7 +34,7 @@ body {
     font-size: 45px;
     animation-name: textAnimation;
     animation-timing-function: linear;
-    animation-duration: 0.5s;
+    animation-duration: 0.7s;
 }
 
 .timeClass{
@@ -61,7 +61,7 @@ body {
     margin: 5px 0 0;
     animation-name: textAnimation;
     animation-timing-function: linear;
-    animation-duration: 0.5s;
+    animation-duration: 0.7s;
 }
 #startQuiz {
     padding: 10px 15px;
@@ -75,7 +75,7 @@ body {
     cursor: pointer;
     animation-name: buttonAnimation;
     animation-timing-function: linear;
-    animation-duration: 0.5s;
+    animation-duration: 0.7s;
 }
 
 @keyframes textAnimation {
