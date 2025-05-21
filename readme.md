@@ -7,7 +7,7 @@
 - 5 timed multiple-choice questions
 - Instant feedback for correct and wrong answers
 - Final score display
-- Resonsive design for mobile and desktop
+- Responsive design for mobile and desktop
 
 ## Built with 
 
